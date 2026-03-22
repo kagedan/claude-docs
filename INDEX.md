@@ -14,7 +14,7 @@
 | ファイル | 内容 |
 |---------|------|
 | [cowork-operations.md](cowork-operations.md) | VirtioFS復旧、Projects/Dispatch、1セッション1ファイル原則、PROGRESS.md |
-| [claude-code-operations.md](claude-code-operations.md) | CLAUDE.mdの書き方、コンテキスト管理、セッション管理、HANDOVER、GitHub MCP |
+| [claude-code-operations.md](claude-code-operations.md) | CLAUDE.mdの書き方、auto-memory、GitHub MCP、planモード |
 | [skill-development.md](skill-development.md) | スキル保存場所マップ、同期問題、skill-creatorの使い方 |
 | [mcp-management.md](mcp-management.md) | オンオフ制御、プロジェクトスコープ、コンテキスト消費の管理 |
 | [claude-ai-tips.md](claude-ai-tips.md) | chart_display_v0、Reactアーティファクト、Claude CodeとClaude.aiの連携 |
@@ -26,6 +26,7 @@
 | [environment-setup.md](environment-setup.md) | Win/Mac環境セットアップ、settings.json、パス差異 |
 | [mobile-workflow.md](mobile-workflow.md) | Dispatch/Channels/Remote Control、モバイル→PC引き継ぎ |
 | [cross-platform-sync.md](cross-platform-sync.md) | Win/Mac間の設定同期、リポジトリ管理 |
+| [context-management.md](context-management.md) | コンテキスト最適化、/compact・/clear・/rename、トークン削減、HANDOVER |
 
 ## 設計・方針系（Decisions）
 
@@ -41,5 +42,6 @@
 
 | 日付 | 内容 |
 |------|------|
+| 2026-03-22 | context-management.md追加、claude-code-operations.mdからコンテキスト関連を分離 |
 | 2026-03-22 | 環境・基盤系3ファイル追加、claude-code-operations.md更新 |
 | 2026-03-22 | 初版作成（8カテゴリ + INDEX.md） |
