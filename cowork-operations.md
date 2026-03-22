@@ -48,6 +48,11 @@
 
 ### Dispatch（3/18リリース）
 - スマホからCoworkをリモート操作
+- 詳細は [mobile-workflow.md](mobile-workflow.md) を参照
+
+### スケジュールタスク
+- `/schedule` による定時実行が可能に（Web版も登場）
+- 毎朝のニュース自動収集など、定型タスクの自動化に活用できる
 
 ### モデル
 - Sonnet 4.6がCoworkのデフォルトモデル

@@ -19,6 +19,14 @@
 | [mcp-management.md](mcp-management.md) | オンオフ制御、プロジェクトスコープ、コンテキスト消費の管理 |
 | [claude-ai-tips.md](claude-ai-tips.md) | chart_display_v0、Reactアーティファクト、Claude CodeとClaude.aiの連携 |
 
+## 環境・基盤系（Infrastructure）
+
+| ファイル | 内容 |
+|---------|------|
+| [environment-setup.md](environment-setup.md) | Win/Mac環境セットアップ、settings.json、パス差異 |
+| [mobile-workflow.md](mobile-workflow.md) | Dispatch/Channels/Remote Control、モバイル→PC引き継ぎ |
+| [cross-platform-sync.md](cross-platform-sync.md) | Win/Mac間の設定同期、リポジトリ管理 |
+
 ## 設計・方針系（Decisions）
 
 | ファイル | 内容 |
@@ -33,4 +41,5 @@
 
 | 日付 | 内容 |
 |------|------|
+| 2026-03-22 | 環境・基盤系3ファイル追加、claude-code-operations.md更新 |
 | 2026-03-22 | 初版作成（8カテゴリ + INDEX.md） |
