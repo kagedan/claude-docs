@@ -18,6 +18,7 @@
 | [skill-development.md](skill-development.md) | スキル保存場所マップ、同期問題、skill-creatorの使い方 |
 | [mcp-management.md](mcp-management.md) | オンオフ制御、プロジェクトスコープ、コンテキスト消費の管理 |
 | [claude-ai-tips.md](claude-ai-tips.md) | chart_display_v0、Reactアーティファクト、Claude CodeとClaude.aiの連携 |
+| [photomanager-db-guide.md](photomanager-db-guide.md) | PhotoManager 20のDB操作ガイド、テーブル構造、RTF変換、自動化ロードマップ |
 
 ## 環境・基盤系（Infrastructure）
 
@@ -42,6 +43,7 @@
 
 | 日付 | 内容 |
 |------|------|
+| 2026-03-24 | photomanager-db-guide.md追加（PhotoManager DB操作ガイド Phase 1完了） |
 | 2026-03-22 | context-management.md追加、claude-code-operations.mdからコンテキスト関連を分離 |
 | 2026-03-22 | 環境・基盤系3ファイル追加、claude-code-operations.md更新 |
 | 2026-03-22 | 初版作成（8カテゴリ + INDEX.md） |
